@@ -5,7 +5,11 @@
 This webpage provides a dynamic, in-depth analysis of UFO sightings. Users can filter based on criteria. This required adding table filters for the city, state, country, and shape. 
 
 ## Results
-To seach UFO sightings by city, type the city into the "City" field to the left-hand side of the page. Use lowercase letters. After typing in the city name, press enter on your keyboard. The chart to the right on the screen will update with only sightings in Anchorage. This example shows UFO sightings in Anchorage, Alaska. If there was another "Anchorage" in an other country or state, that would have appeared too in the results.
+To seach UFO sightings by city, type the city into the "City" field to the left-hand side of the page. 
+
+![alt text](https://github.com/sarifrey/UFOs/blob/main/resources/mainpage.jpg)
+
+Use lowercase letters. After typing in the city name, press enter on your keyboard. The chart to the right on the screen will update with only sightings in Anchorage. This example shows UFO sightings in Anchorage, Alaska. If there was another "Anchorage" in an other country or state, that would have appeared too in the results.
 
 ![alt text](https://github.com/sarifrey/UFOs/blob/main/resources/citysearch.jpg)
 
